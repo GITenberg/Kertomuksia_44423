@@ -1,0 +1,28 @@
+_repo: Kertomuksia_44423
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heman, Gustaf Adolf
+    aliases:
+    - Kah
+    - Heman, G. A.
+    - Henan, Kustaa Adolf
+    gutenberg_agent_id: '37230'
+    url: http://www.gutenberg.org/2009/agents/37230
+description: ''
+gutenberg_issued: '2013-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44423'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Kertomuksia
+url: http://www.gutenberg.org/ebooks/44423
